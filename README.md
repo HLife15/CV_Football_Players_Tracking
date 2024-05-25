@@ -212,6 +212,10 @@ cv2.destroyAllWindows()
 
 
 
+https://github.com/HLife15/CV_Football_Players_Tracking/assets/162321808/00698612-88cb-480f-b0bd-232d44a80285
+
+
+
 <br><br>
 동영상에도 나와 있듯 대부분의 상황에서 Tracking이 잘 진행되었다. 다만 몇몇 장면에선 person, sports ball 이외의 다른 클래스로 판별되기도 했고 
 경기장 밖의 안전요원이나 관중들이 Tracking 되는 등 아쉬운 부분들이 있었다. 
