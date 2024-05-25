@@ -210,17 +210,12 @@ cv2.destroyAllWindows()
 <br><br>
 원본 동영상에 Tracking이 적용된 화면 <br>
 
-
-
-https://github.com/HLife15/CV_Football_Players_Tracking/assets/162321808/00698612-88cb-480f-b0bd-232d44a80285
-
-
+![GIFMaker_me](https://github.com/HLife15/CV_Football_Players_Tracking/assets/162321808/ee9bb390-7afe-4c0c-939d-4b17f941d78b)
 
 <br><br>
-동영상에도 나와 있듯 대부분의 상황에서 Tracking이 잘 진행되었다. 다만 몇몇 장면에선 person, sports ball 이외의 다른 클래스로 판별되기도 했고 
-경기장 밖의 안전요원이나 관중들이 Tracking 되는 등 아쉬운 부분들이 있었다. 
-그래도 완벽하진 않아도 수업 시간에 배웠던 것을 바탕으로 무언가를 만들어보니 뿌듯했다. 
-앞으로도 공부해서 보다 더 정확하고 다양한 기능을 가진 것을 만들어보는 프로젝트를 진행해봐야겠다. <br><br>
+동영상에도 나와 있듯 대부분의 상황에서 Tracking이 잘 진행되었다. 다만 몇몇 장면에선 person, sports ball 이외의 다른 클래스가 판별되기도 했고 
+경기장 내의 선수들이나 심판들이 아닌 경기장 밖의 안전요원이나 관중들이 Tracking 되는 등 아쉬운 부분들이 있었다. 
+이 부분은 추후 더 제대로 공부해서 정확한 Tracking 기능은 물론 오프사이드 판별 등 이외의 다양한 기능을 추가해볼 수 있도록 해야겠다. <br><br>
 
 [참고 자료]
 <br>
